@@ -1,0 +1,23 @@
+p {
+    background-color: #fcb3df;
+    font-family: "verdana", sans-serif;
+}
+
+div {
+    font-family: "DejaVuSans", sans-serif;
+}
+
+.one{
+    color: #0033ff;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+.another{
+    background-color: #a1d1ac;
+    font-size: 24px;
+    font-weight: bold;
+}
